@@ -281,3 +281,14 @@ header .carousel {
 }
 /* End Contact me */
 
+/*Start Footer*/
+footer{
+  background-color: #111;
+}
+footer span{
+  color: "#03a9f4";
+}
+footer span .text{
+  color: "#03a9f4";
+}
+/*End Footer*/
